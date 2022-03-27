@@ -1,5 +1,5 @@
 # flasktest
-  intalujemy pycharm oraz pythnon  
+  intalujemy pycharm oraz python 3.10
   tworzymy nowy projekt zawierający wirtuane środkowisko  
   umieszczamy pliki requirements.txt i test.py w folderze projektu  
   w terminalu pycharm wpisujemy pip install -r requirements.txt  
